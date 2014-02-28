@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+CACHE:
+nsb/fastclick.js
+nsb/messages.js
+nsb/nsbstyle.css
+nsb/images/196.png
+nsb/images/LauncherIcon57.png
+nsb/iscroll.js
+nsb/images/SplashScreen.png
+nsb/hfunc.js
+
+NETWORK:
+*
+
+# buildtime: 1393616387.2
